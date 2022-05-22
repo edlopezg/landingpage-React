@@ -1,0 +1,22 @@
+.page {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.tatoo_Wp {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+
+
+}
+.tatoo_title{
+    position: absolute;
+    bottom: 15%;
+    right: 10%;
+    color: white;
+    font-size: 4rem;
+    padding: 15px;
+}
