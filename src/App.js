@@ -5,6 +5,7 @@ import tatooImage_03 from './assets/tatoowp3.jpg'
 import PageOne from './components/PageOne'
 import Slider from './components/Slider';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 const navbarLinks = [{url:"#", title:"Home"},
                      {url:"#", title:"BlackOut"},
@@ -25,6 +26,7 @@ function App() {
        <Slider imageSrc={tatooImage_03} title={"Color Tatoo Design"} 
        subtitle={"Discover the most rude and impressive designs in color and colors impresionant"} flipped={true}/>
        
+       <Footer/>
        
     </div>
   );

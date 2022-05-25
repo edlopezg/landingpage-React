@@ -1,0 +1,11 @@
+
+.container {
+     padding: 70px ;
+    color: brown;
+    opacity: 0.75;
+    display: flex;
+    top: 0%;
+    border-color: transparent;
+    font-family: "MonteCarlo" , cursive;
+    font-size: 3rem;
+}
