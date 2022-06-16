@@ -1,12 +1,6 @@
 import React from "react";
 import './Navbar.css'
-import {fiMenu, FiX} from 'react-icons/fi'
 
-// const navbarLinks = [
-//     {url: '/home',
-//      title : 'Home'
-// }
-// ]
 
 const Navbar = ({navbarLinks}) => {
     return (
