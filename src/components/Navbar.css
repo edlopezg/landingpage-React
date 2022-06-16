@@ -41,6 +41,8 @@ transition: 250ms;
 
 }
 
+
+
 .navbar_link:hover {
     border-color: rgb(208, 148, 148);
     transition: 250ms ;
